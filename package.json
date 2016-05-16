@@ -1,0 +1,14 @@
+{
+  "name": "whoops",
+  "version": "1.0.0",
+  "description": "Promise catch function wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Federico Medina",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
