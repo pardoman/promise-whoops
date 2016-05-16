@@ -1,10 +1,14 @@
 {
-  "name": "whoops",
+  "name": "promise-whoops",
   "version": "1.0.0",
-  "description": "Promise catch function wrapper",
+  "description": "Promise 'catch' method alias",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pardoman/promise-whoops.git"
   },
   "author": "Federico Medina",
   "license": "ISC",
