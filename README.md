@@ -1,7 +1,7 @@
 
 ### How to install
 ```
-    npm install --save promise-whoops
+npm install --save promise-whoops
 ```
 
 ### How to use
