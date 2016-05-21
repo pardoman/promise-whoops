@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pardoman/promise-whoops.svg?branch=master)](https://travis-ci.org/pardoman/promise-whoops)
+
 
 ### How to install
 ```
