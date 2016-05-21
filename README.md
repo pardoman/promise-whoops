@@ -27,3 +27,13 @@ prom.then(function(){
     console.warn('Promise rejected: ' + why);
 });
 ```
+
+### Testing
+```
+npm test
+```
+
+### Travis automation
+
+Disabled QA on NodeJs version "0.10" because Promise is not defined.
+Disabled QA on NodeJs versions "0.8" and "0.6" because Mocha is not compatible.
